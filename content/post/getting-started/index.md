@@ -1,5 +1,5 @@
 ---
-title:  Few-shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation
+title: Few-shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation
 subtitle: Developing a three-stage asymmetric neural network training strategy for solving information scarcity in few
 shot contexts.
 
