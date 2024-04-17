@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Multi-Source Perception and Intelligent Prediction Emergency Monitoring Platform for Forest Fires
+summary: Received National Second Prize (top 0.7%) in 2023 Chinese Collegiate Computing Competition, National First Prize in 2023 China "Dingxin Cup" National Youth Innovation and Entrepreneurship Competition, and National Grand Prize in 2023 National University Student Surveying and Mapping Discipline Intelligence Competition.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Image processing 
+date: '2022-10-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    link: https://github.com/Simon-leong/SenHuo-Forest-Fire-Intelligence-Integration-Software-System-UI
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +26,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
