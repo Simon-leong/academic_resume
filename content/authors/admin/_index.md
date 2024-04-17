@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: I am an undergraduate student at Wuhan University in China, graduating in the fall of 2025!
 
 # Organizations/Affiliations to show in About widget
 organizations:
