@@ -4,8 +4,7 @@ subtitle: Developing a three-stage asymmetric neural network training strategy f
 shot contexts.
 
 # Summary for listings and search engines
-summary: Developing a three-stage asymmetric neural network training strategy for solving information scarcity in few
-shot contexts.
+summary: Developing a three-stage asymmetric neural network training strategy for solving information scarcity in few shot contexts.
 
 # Link this post with a project
 projects: []
