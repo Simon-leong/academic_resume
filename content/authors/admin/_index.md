@@ -40,26 +40,6 @@ education:
       institution: Wuhan University in China
       year: 2021
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: C++
-        description: ''
-        percent: 70
-        icon: cplusplus
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,7 +48,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'https://www.google.com/intl/zh-CN_cn/gmail/about/'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/
@@ -86,5 +66,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Greetings! I am Qifan Liang, a current undergraduate student majoring in Computer Science and Technology at Wuhan University, and also a lab member of the National Multimedia Software Engineering Technology Research Center at Wuhan University. I have served as the head of National Entrepreneurial Research Program for Undergraduates and the head of National Innovative Research Program for Undergraduates in the State Key Laboratory of Surveying and Mapping and Remote Sensing of Wuhan University.
+
+My research interests :
+  (1) Fundamentals and applications of deep learning algorithms, and design of training strategies for few-shot scenarios.
+  (2) Exploring the recovery of visually distorted elements (smoke, haze) in dynamic environments, especially in the medical field.
+  (3) Human-centered visual perception and 2D/3D scene understanding.
+
 {style="text-align: justify;"}
