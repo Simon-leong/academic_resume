@@ -104,7 +104,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    id: accomplishments
+    id: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplishments'
@@ -190,7 +190,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: showcase
+      view: card
       columns: '2'
   - block: portfolio
     id: projects
@@ -216,7 +216,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
