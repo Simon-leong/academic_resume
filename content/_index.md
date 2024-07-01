@@ -161,6 +161,7 @@ sections:
           organization: 2023 C4-Network Technology Challenge
           title: National Second Prize (top 0.4%)                                        
     design:
+      view: compact
       columns: '2'
   - block: collection
     id: posts
