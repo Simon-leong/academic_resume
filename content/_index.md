@@ -162,9 +162,9 @@ sections:
           title: National Second Prize (top 0.4%)                                        
     design:
       view: compact
-      columns: '2'
+      columns: '5'
   - block: collection
-    id: posts
+    id: researches
     content:
       title: Research Experiences
       subtitle: ''
