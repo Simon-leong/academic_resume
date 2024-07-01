@@ -101,7 +101,7 @@ sections:
               * Algorithms Designing 
               * Software Developing
     design:
-      columns: '5'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -115,35 +115,53 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - date_end: ''
+          date_start: '2024-06-19'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          organization: Xiaomi Corporation
+          title: 'Lei Jun Computer Innovation and Development Grant'        
+        - date_end: ''
+          date_start: '2024-06-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Wuhan University
+          title: 'The top supported project in the key areas of the National College Students' Innovation and Entrepreneurship Training Program (First Place / Top 0.043%)'       
+        - date_end: ''
+          date_start: '2023-10-01'
+          description: ''
+          organization: Samsung (South Korean electronics company)
+          title: 'Outstanding Undergraduate Scholarship (Top 0.5%)'             
+        - date_end: ''
+          date_start: '2023-09-10'
+          description: ''
+          organization: Wuhan University
+          title: 'First-Class Scholarship (Top 5%)'
+        - date_end: ''
+          date_start: '2023-09-10'
+          description: ''
+          organization: Wuhan University
+          title: 'Outstanding Student Award (Top 5%)'
+        - date_end: ''
+          date_start: '2023-09-01'
+          description: ''
+          organization: 2023 Chinese Collegiate Computing Competition
+          title: 'National Second Prize (top 0.7%)'
+        - date_end: ''
+          date_start: '2023-07-15'
+          description: ''
+          organization: 2023 China "Dingxin Cup" National Youth Innovation and Entrepreneurship Competition
+          title: 'National First Prize'   
+        - date_end: ''
+          date_start: '2023-07-12'
+          description: ''
+          organization: 2023 National University Student Surveying and Mapping Discipline Intelligence Competition
+          title: 'National First Prize'  
+        - date_end: ''
+          date_start: '2023-07-02'
+          description: ''
+          organization: 2023 C4-Network Technology Challenge
+          title: 'National Second Prize (top 0.4%)'                                        
     design:
-      columns: '2'
+      columns: '3'
   - block: collection
     id: posts
     content:
