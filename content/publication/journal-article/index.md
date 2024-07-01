@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Few-shot face sketch-to-photo synthesis via global-local asymmetric image-to-image translation"
 authors:
+- Yongkang Li
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "First Author"
+- "Second Author"
+date: "2024-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +18,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*ACM Transactions on Multimedia Computing, Communications, and Applications*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Face sketch-to-photo synthesis is widely used in law enforcement and digital entertainment, which can be achieved by image-to-image (I2I) translation. Traditional I2I translation algorithms usually regard the bidirectional translation of two image domains as two symmetric processes, so the two translation networks adopt the same structure. However, due to the scarcity of face sketches and the abundance of face photos, the sketch-to-photo and photo-to-sketch processes are asymmetric. Considering this issue, we propose a few-shot face sketch-to-photo synthesis model based on asymmetric I2I translation, where the sketch-to-photo process uses a feature-embedded generating network, while the photo-to-sketch process uses a style transfer network. On this basis, a three-stage asymmetric training strategy with style transfer as the trigger is proposed to optimize the proposed model by utilizing the advantage that the style transfer network only needs few-shot face sketches for training. Additionally, we discover that stylistic differences
+between the global and local sketch faces lead to inconsistencies between the global and local sketch-to-photo processes. Thus, a dual branch of the global face and local face is adopted in the sketch-to-photo synthesis model to learn the specific transformation processes for global structure and local details. Finally, the high-quality synthetic face photo can be generated through the global-local face fusion sub-network. Extensive experimental results demonstrate that the proposed Global-Local ASymmetric image-to-image translation algorithm (GLAS) compared to SOTA methods, at least improves FSIM by 0.0126, and reduces LPIPS (alex), LPIPS (squeeze), and LPIPS (vgg) by 0.0610, 0.0883, and 0.0719, respectively.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Developing a three-stage asymmetric neural network training strategy for solving information scarcity in few shot contexts.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: 'https://github.com/Simon-leong/Few-shot-Face-Sketch-to-Photo-Synthesis-via-Global-Local-Asymmetric-Image-to-Image-Translation'
 url_dataset: ''
 url_poster: ''
 url_project: ''

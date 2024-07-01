@@ -2,6 +2,8 @@
 title: Impact of the Scaling Laws on Few-Shot Learning in Trajectory Prediction
 subtitle: Proposing a kind of few-shot learning strategy (Scenario-Aware Meta-Learning).
 
+summary: Proposing a kind of few-shot learning strategy in trajectory prediction (Scenario-Aware Meta-Learning).
+
 # Link this post with a project
 projects: []
 
