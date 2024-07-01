@@ -50,6 +50,11 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 80
+        icon: cplusplus
+        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
