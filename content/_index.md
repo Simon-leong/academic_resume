@@ -101,7 +101,7 @@ sections:
               * Algorithms Designing 
               * Software Developing
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -115,15 +115,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - date_end: ''
           date_start: '2024-06-19'
           description: ''
@@ -170,7 +161,7 @@ sections:
           organization: 2023 C4-Network Technology Challenge
           title: National Second Prize (top 0.4%)                                        
     design:
-      columns: '3'
+      columns: '2'
   - block: collection
     id: posts
     content:
