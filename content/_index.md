@@ -86,7 +86,7 @@ sections:
         - title: All-Weather Monitoring System for Power Transmission Towers Using Thermal Infrared Technology (Team Member)
           company: Wuhan University (supervised by Engineer. Zhang Tao)
           date_start: '2023-12-21'
-          date_end: '2024-3-10'
+          date_end: '2024-03-10'
           description: |2-
               Responsibilities include:
               * Algorithms Designing (feature mapping)
