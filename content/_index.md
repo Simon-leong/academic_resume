@@ -191,7 +191,7 @@ sections:
     design:
       # Choose a layout view
       view: card
-      columns: '2'
+      columns: '5'
   - block: portfolio
     id: projects
     content:
@@ -211,11 +211,13 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Image processing 
+          tag: Image processing         
         - name: Other
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
