@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: Experience
     content:
       title: Experience
       # Date format for experience
@@ -103,9 +104,10 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplishments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -166,7 +168,7 @@ sections:
   - block: collection
     id: researches
     content:
-      title: Research Experiences
+      title: Featured Research Experiences
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -217,14 +219,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -236,6 +230,15 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: markdown
+    id: Activities
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'     
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -253,14 +256,6 @@ sections:
         longitude: '114.365248'  
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
