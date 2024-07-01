@@ -47,32 +47,18 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 80
+        percent: 70
         icon: cplusplus
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
         icon_pack: fas
 
 # Social/Academic Networking
@@ -85,7 +71,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/Simon-leong
