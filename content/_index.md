@@ -54,27 +54,52 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Impact of the Scaling Laws on Few-Shot Learning in Trajectory Prediction (Team Leader)
+          company: University of Oxford (supervised by Prof. Jens Rittscher)
+          date_start: '2024-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Problem Analysing (long-tail samples)
+              * Algorithms Designing (meta-learning)
+              * Model Deploying
+        - title: Medical Video Desmoking Research Integrating Semantic Segmentation and Cross-Attention Mechanisms (Independent Contributor)
+          company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
+          date_start: '2024-02-10'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Problem Analysing (surgical video de-smoking)
+              * Dataset Designing (synthetic smoke videos/paired smoke masks)
+              * Algorithms Designing (semantic segmentation/storage-optimizational cross-attention)
+              * Experiments Analysing
+        - title: Few-shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation (Team Member)
+          company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
+          date_start: '2023-07-05'
+          date_end: '2024-01-13'
+          description: |2-
+              Responsibilities include:
+              * Problem Analysing (few-shot image-to-image translation)
+              * Algorithms Designing (style transfer etc. )
+              * Experiments Analysing 
+              * Paper Writing
+        - title: All-Weather Monitoring System for Power Transmission Towers Using Thermal Infrared Technology (Team Member)
+          company: Wuhan University (supervised by Engineer. Zhang Tao)
+          date_start: '2023-12-21'
+          date_end: '2024-3-10'
+          description: |2-
+              Responsibilities include:
+              * Algorithms Designing (feature mapping)
+              * Software Developing
+        - title: Study on Forest Fire Diffusion Method Based on Cellular Automata (Team Member)
+          company: State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing in Wuhan University (supervised by Prof. Sun Kaimin)
+          date_start: '2023-01-05'
+          date_end: '2024-06-11'
+          description: |2-
+              Responsibilities include:
+              * Problem Analysing (forest fire perdiction)
+              * Algorithms Designing 
+              * Software Developing
     design:
       columns: '2'
   - block: accomplishments
