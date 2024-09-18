@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-Greetings! I am Qifan Liang, a current undergraduate student majoring in Computer Science and Technology at Wuhan University, and also a lab member of the National Multimedia Software Engineering Technology Research Center at Wuhan University. I have served as the head of National Entrepreneurial Research Program for Undergraduates and the head of National Innovative Research Program for Undergraduates in the State Key Laboratory of Surveying and Mapping and Remote Sensing of Wuhan University.
+Greetings! I am Qifan Liang, a current undergraduate student majoring in Computer Science and Technology at Wuhan University, and also a lab member of the National Multimedia Software Engineering Technology Research Center at Wuhan University. I have conducted computer vision research under Prof. Jens Rittscher at Oxford University, Prof. Zhen Han and Prof. Kaimin Sun at Wuhan University. In addition, I have been the technological leader of the National Entrepreneurial Research Program for Undergraduates and the leader of National Innovative Research Program for Undergraduates in the State Key Laboratory of Surveying and Mapping and Remote Sensing of Wuhan University.
 
 My research interests :
   (1) Fundamentals and applications of deep learning algorithms, and design of training strategies for few-shot scenarios.
