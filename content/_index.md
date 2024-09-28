@@ -128,6 +128,11 @@ sections:
           organization: Wuhan University
           title: Merit Student Award (Top 5%)
         - date_end: ''
+          date_start: '2024-09-01'
+          description: ''
+          organization: 2024 Chinese Collegiate Computing Competition
+          title: National Second Prize (top 0.7%)
+        - date_end: ''
           date_start: '2024-06-19'
           description: ''
           organization: Xiaomi Corporation
@@ -153,9 +158,9 @@ sections:
           organization: Wuhan University
           title: Merit Student Award (Top 5%)
         - date_end: ''
-          date_start: '2023-09-01/2024-09-01'
+          date_start: '2023-09-01'
           description: ''
-          organization: 2023 and 2024 Chinese Collegiate Computing Competition
+          organization: 2023 Chinese Collegiate Computing Competition
           title: National Second Prize (top 0.7%)
         - date_end: ''
           date_start: '2023-07-15'
