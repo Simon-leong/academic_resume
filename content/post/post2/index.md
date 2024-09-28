@@ -1,8 +1,9 @@
 ---
-title: Medical Video Desmoking Research Integrating Semantic Segmentation and Cross-Attention Mechanisms
-subtitle: Proposing a video de-smoking framework based on a smoke temporal classification strategy, where semantic segmentation and storage-optimizational cross-attention are introduced to learn the complex motion patterns of overlapping smoke.
+title: Smokeformer:A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention 
+and a Novel Benchmark Dataset 
+subtitle: Proposing a video de-smoking framework based on a smoke temporal classification strategy, where semantic segmentation and storage-optimizational spatio-temporal attention are introduced to learn the complex motion patterns of overlapping smoke.
 
-summary: Proposing a video de-smoking framework based on a smoke temporal classification strategy, where semantic segmentation and storage-optimizational cross-attention are introduced to learn the complex motion patterns of overlapping smoke.
+summary: Proposing a video de-smoking framework based on a smoke temporal classification strategy, where semantic segmentation and storage-optimizational spatio-temporal attention are introduced to learn the complex motion patterns of overlapping smoke.
 
 # Link this post with a project
 projects: []
