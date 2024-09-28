@@ -1,23 +1,27 @@
 ---
-title: 'An example conference paper'
+title: 'Study on Forest Fire Diffusion Method Based on Cellular Automata'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Tonghe Zhang
+  - Qingxiang Meng
+  - Jinchun Liu
+  - Qifan Liang
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'co-first author'
+  - 'co-first author'
+  - 'second author'
+  - 'third author'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-07-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-07-19T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +29,12 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: 2023 30th International Conference on Geoinformatics
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As one of the serious natural disasters, forest fire has the characteristics of strong suddenness, hard to detect, wide range of disaster, difficult to extinguish and heavy losses. Frequent forest fires put forward an urgent need for dynamic monitoring of forest fire diffusion and prediction of forest fire behavior. This paper constructs a forest fire diffusion model based on cellular automata, and outputs the visualization results of forest fire diffusion by inputting environmental factors such as terrain data, meteorological data and vegetation type data and the location of the fire point. Finally, the model is used to simulate the forest fire diffusion process in Xichang City, Sichuan Province, and the validity of the model is verified by remote sensing images. The results show that the over-fire area obtained by the simulation experiment is similar to the spatial distribution of the over-fire area extracted by Sentinel-2 satellite, which proves that the cellular automata model constructed in this paper has high accuracy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper constructs a forest fire diffusion model based on cellular automata, and outputs the visualization results of forest fire diffusion by inputting environmental factors such as terrain data, meteorological data and vegetation type data and the location of the fire point.
 
 tags: []
 
@@ -44,13 +47,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
