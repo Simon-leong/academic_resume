@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Impact of the Scaling Laws on Few-Shot Learning in Trajectory Prediction (Team Leader)
+        - title: "Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction"  (Team Co-Leader)
           company: University of Oxford (supervised by Prof. Jens Rittscher)
           date_start: '2024-06-01'
           date_end: ''
@@ -64,15 +64,15 @@ sections:
               * Problem Analysing (long-tail samples)
               * Algorithms Designing (meta-learning)
               * Model Deploying
-        - title: Medical Video Desmoking Research Integrating Semantic Segmentation and Cross-Attention Mechanisms (Independent Contributor)
+        - title: "Smokeformer: A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention and a Novel Benchmark Dataset" (Team Leader)
           company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
-          date_start: '2024-02-10'
+          date_start: '2024-05-10'
           date_end: ''
           description: |2-
               Responsibilities include:
               * Problem Analysing (surgical video de-smoking)
               * Dataset Designing (synthetic smoke videos/paired smoke masks)
-              * Algorithms Designing (semantic segmentation/storage-optimizational cross-attention)
+              * Algorithms Designing (semantic segmentation/storage-optimizational spatio-temporal attention)
               * Experiments Analysing
         - title: Few-shot Face Sketch-to-Photo Synthesis via Global-Local Asymmetric Image-to-Image Translation (Team Member)
           company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
@@ -90,9 +90,9 @@ sections:
           date_end: '2024-03-10'
           description: |2-
               Responsibilities include:
-              * Algorithms Designing (feature mapping)
+              * Algorithms Designing (feature-mapping deep learning model)
               * Software Developing
-        - title: Study on Forest Fire Diffusion Method Based on Cellular Automata (Team Member)
+        - title: Study on Forest Fire Diffusion Method Based on Cellular Automata (Team Leader)
           company: State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing in Wuhan University (supervised by Prof. Sun Kaimin)
           date_start: '2023-01-05'
           date_end: '2024-06-11'
@@ -118,20 +118,30 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2024-09-26'
+          description: ''
+          organization: Wuhan University
+          title: Second-Class Scholarship (Top 10%)
+        - date_end: ''
+          date_start: '2024-09-26'
+          description: ''
+          organization: Wuhan University
+          title: Merit Student Award (Top 5%)
+        - date_end: ''
           date_start: '2024-06-19'
           description: ''
           organization: Xiaomi Corporation
-          title: Lei Jun Computer Innovation and Development Grant       
+          title: Lei Jun Computer Innovation and Development Grant (Top 7.2%)       
         - date_end: ''
           date_start: '2024-06-01'
           description: ''
           organization: Wuhan University
-          title: The top supported project in the key areas of the National College Students' Innovation and Entrepreneurship Training Program (First Place / Top 0.043%)       
+          title: The national-level College Students' Innovation and Entrepreneurship Training Program and obtaining the corresponding fund support(Top 0.043%)       
         - date_end: ''
           date_start: '2023-10-01'
           description: ''
           organization: Samsung (South Korean electronics company)
-          title: Outstanding Undergraduate Scholarship (Top 0.5%)            
+          title: Outstanding Undergraduate Scholarship (1/685)            
         - date_end: ''
           date_start: '2023-09-10'
           description: ''
@@ -141,11 +151,11 @@ sections:
           date_start: '2023-09-10'
           description: ''
           organization: Wuhan University
-          title: Outstanding Student Award (Top 5%)
+          title: Merit Student Award (Top 5%)
         - date_end: ''
-          date_start: '2023-09-01'
+          date_start: '2023-09-01/2024-09-01'
           description: ''
-          organization: 2023 Chinese Collegiate Computing Competition
+          organization: 2023 and 2024 Chinese Collegiate Computing Competition
           title: National Second Prize (top 0.7%)
         - date_end: ''
           date_start: '2023-07-15'
@@ -156,12 +166,17 @@ sections:
           date_start: '2023-07-12'
           description: ''
           organization: 2023 National University Student Surveying and Mapping Discipline Intelligence Competition
-          title: National First Prize 
+          title: National First Prize (Top 1%)
         - date_end: ''
           date_start: '2023-07-02'
           description: ''
           organization: 2023 C4-Network Technology Challenge
-          title: National Second Prize (top 0.4%)                                        
+          title: National Second Prize (top 0.4%)   
+        - date_end: ''
+          date_start: '2022-09-15'
+          description: ''
+          organization: Wuhan University
+          title: Outstanding Student Award (Top 15%)                                     
     design:
       view: compact
       columns: '5'
