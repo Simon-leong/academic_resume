@@ -8,7 +8,7 @@ authors:
   - Tonghe Zhang
   - Qingxiang Meng
   - Jinchun Liu
-  - Qifan Liang
+  - admin
 
 # Author notes (optional)
 author_notes:

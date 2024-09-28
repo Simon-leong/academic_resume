@@ -2,7 +2,7 @@
 title: "Few-shot face sketch-to-photo synthesis via global-local asymmetric image-to-image translation"
 authors:
 - Yongkang Li
-- Qifan Liang
+- admin
 author_notes:
 - "First Author"
 - "Second Author"
