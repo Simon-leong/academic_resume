@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: "Scenario-Aware Meta-Learning: Ensuring Safety and Scalability in Trajectory Prediction"  (Team Co-Leader)
+        - title: Scenario-Aware Meta-Learning:Ensuring Safety and Scalability in Trajectory Prediction (Team Co-Leader)
           company: University of Oxford (supervised by Prof. Jens Rittscher)
           date_start: '2024-06-01'
           date_end: ''
@@ -64,7 +64,7 @@ sections:
               * Problem Analysing (long-tail samples)
               * Algorithms Designing (meta-learning)
               * Model Deploying
-        - title: "Smokeformer: A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention and a Novel Benchmark Dataset" (Team Leader)
+        - title: Smokeformer:A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention and a Novel Benchmark Dataset" (Team Leader)
           company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
           date_start: '2024-05-10'
           date_end: ''
