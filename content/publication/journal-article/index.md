@@ -7,7 +7,7 @@ author_notes:
 - "First Author"
 - "Second Author"
 date: "2024-07-13T00:00:00Z"
-doi: ""
+doi: "https://dl.acm.org/doi/10.1145/3672400"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-13T00:00:00Z"
@@ -27,7 +27,7 @@ abstract: Face sketch-to-photo synthesis is widely used in law enforcement and d
 summary: Developing a three-stage asymmetric neural network training strategy for solving information scarcity in few shot contexts.
 
 tags:
-- Source Themes
+
 featured: true
 
 # links:

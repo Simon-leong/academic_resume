@@ -18,7 +18,7 @@ author_notes:
   - 'third author'
 
 date: '2023-07-19T00:00:00Z'
-doi: ''
+doi: '10.1109/Geoinformatics60313.2023.10247973'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-07-19T00:00:00Z'
@@ -39,7 +39,7 @@ summary: This paper constructs a forest fire diffusion model based on cellular a
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
