@@ -35,7 +35,7 @@ sections:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
-        text_color_light: false
+        text_color_light: true
   - block: about.biography
     id: about
     content:
@@ -48,7 +48,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Sep 2024
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
