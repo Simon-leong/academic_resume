@@ -64,7 +64,7 @@ sections:
               * Problem Analysing (long-tail samples)
               * Algorithms Designing (meta-learning)
               * Model Deploying
-        - title: Smokeformer:A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention and a Novel Benchmark Dataset" (Team Leader)
+        - title: Smokeformer:A Mask-Driven Transformer Framework for Endoscopic Video Smoke Removal with Cross-Class Attention and a Novel Benchmark Dataset (Team Leader)
           company: National Engineering Research Center for Multimedia Software in Wuhan University (supervised by Prof. Han Zhen)
           date_start: '2024-05-10'
           date_end: ''
